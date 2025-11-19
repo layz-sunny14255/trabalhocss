@@ -1,0 +1,43 @@
+*{
+	margin: 0px;
+	box-sizing: border-box;}
+#logo,#login,#menu{
+	background-color: rgb(196, 196, 196);
+	border: solid rgb(221, 221, 221) 10px;
+	height: 70px;
+	float: left;
+
+}
+#logo,#login{
+	width: 25%;
+}
+
+
+#menu{
+	width: 50%;
+}
+main{
+	clear: both;
+}
+#Titulo,#Imagem{
+	background-color:rgb(170, 170, 170) ;
+	width: 50%;
+	height:200px;
+	border:solid rgb(214, 214, 214) 20px;
+	float: left;
+
+}
+#primeiro,#segundo,#terceiro{
+	background-color:lightgray ;
+	width: 33.32%;
+	height:150px ;
+	border:solid rgb(240, 240, 240) 20px;
+	float: left;
+}
+#um,#dois,#tres,#quatro{
+	background-color:rgb(64, 64, 64) ;
+	width: 25%;
+	height:125px ;
+	border:solid rgb(38, 38, 38) 20px;
+	float: left;
+}
